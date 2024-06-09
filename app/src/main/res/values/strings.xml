@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Projet Pays</string>
+    <string name="search_hint">Entrez un nom de pays ou une capital</string>
+    <string name="search_button">Rechercher</string>
+    <string name="name_button">Nom de pays</string>
+    <string name="capital_button">Capital du pays</string>
+    <string name="region">Région:</string>
+    <string name="langue">Langue:</string>
+    <string name="monnaie">Monnaie utilisé:</string>
+    <string name="capital">Capital :</string>
+    <string name="fiche_compl_te_du_pays">Fiche complète du pays</string>
+    <string name="recherche">Recherche</string>
+    <string name="favoris">Favoris</string>
+    <string name="nom_officiel">Nom officiel :</string>
+    <string name="sous_region">Sous region:</string>
+    <string name="population">Population:</string>
+    <string name="fuseaux_horaires">Fuseaux horaires:</string>
+    <string name="superficie">Superficie:</string>
+    <string name="liste_de_favoris">Liste de favoris</string>
+    <string name="flag_image_game">Image du drapeau d\'un pays</string>
+    <string name="choix_1">Choix 1:</string>
+    <string name="choix_2">Choix 2:</string>
+    <string name="choix_3">Choix 3:</string>
+    <string name="choix_4">Choix 4:</string>
+</resources>
